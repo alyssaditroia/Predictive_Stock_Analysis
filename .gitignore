@@ -1,0 +1,29 @@
+# Python virtual environment for backend
+*/venv/
+
+# Compiled Python files
+__pycache__/
+*.py[cod]
+
+# SQLite database files
+*.db
+
+# Logs and debug files
+*.log
+
+# macOS system files
+.DS_Store
+
+# IDE settings
+.idea/
+.vscode/
+
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Build artifacts
+build/
+dist/
